@@ -1,3 +1,2 @@
 #!/bin/bash
-sed icata
-
+head -n 3 icata | tail -n 1
